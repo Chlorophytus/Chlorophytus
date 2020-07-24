@@ -1,5 +1,11 @@
+![Chlorophytus Profile Logo](https://repository-images.githubusercontent.com/282105782/09d2eb80-cd35-11ea-839a-438171835b10)
+
 ### Hi there 👋
 
+You found it, the answer to the [ultimate question of my life, possibly the universe, and everything](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything).
+
+I am a backend dev currently working on eactivitypub (an experiment to see how a Mastodon/ActivityPub clone would work in Erlang/OTP), but that may change in the near future.
+I also do amplifier circuit boards, like the BD139 Thing.
 <!--
 **Chlorophytus/Chlorophytus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
