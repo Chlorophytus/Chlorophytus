@@ -4,8 +4,16 @@
 
 You found it, the answer to the [ultimate question of my life, possibly the universe, and everything](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything).
 
+He/They pronouns
+
+#### Backend
+
 I am a backend dev currently working on eactivitypub (an experiment to see how a Mastodon/ActivityPub clone would work in Erlang/OTP), but that may change in the near future.
 I also do amplifier circuit boards, like the BD139 Thing.
+
+#### Data Work
+
+I also do some data work with OpenCL and Python 3. **Todo**: Add more information for this part.
 <!--
 **Chlorophytus/Chlorophytus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
