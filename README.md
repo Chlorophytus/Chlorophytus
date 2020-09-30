@@ -8,7 +8,7 @@ He/They pronouns
 
 #### Backend
 
-I am a backend dev currently working on eactivitypub (an experiment to see how a Mastodon/ActivityPub clone would work in Erlang/OTP), but that may change in the near future.
+I am a backend dev currently working on eactivitypub (an experiment to see how a Mastodon/ActivityPub clone would work in Elixir), but that may change in the near future.
 I also do amplifier circuit boards, like the BD139 Thing.
 
 #### Data Work
