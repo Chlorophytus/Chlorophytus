@@ -6,10 +6,13 @@ You found it, the answer to the [ultimate question of my life, possibly the univ
 
 He/They pronouns
 
+#### FPGA
+
+I am a **F**ield **P**rogrammable **G**ate **A**rray hobbyist dev, Broccoli's a GPU I've been working on. I am mainly working on this for now.
+
 #### Backend
 
-I am a backend dev currently working on ExSemantica, a featherweight platform for social networking, but that may change in the near future.
-I also do amplifier circuit boards, like the BD139 Thing.
+I am a backend dev who is also working on ExSemantica, a featherweight platform for social networking, but that may change in the near future.
 
 #### Data Work
 
