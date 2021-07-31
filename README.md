@@ -8,7 +8,7 @@ He/They pronouns
 
 #### FPGA
 
-I am a **F**ield **P**rogrammable **G**ate **A**rray hobbyist dev, Broccoli's a GPU I've been working on. I am mainly working on this for now.
+I am a **F**ield **P**rogrammable **G**ate **A**rray hobbyist dev, meaning I can hardware accelerate parallel (or simple) problems up to a few hundred megahertz. In my opinion, the more components that operate at once, the more work can be accomplished per megahertz.
 
 #### Backend
 
