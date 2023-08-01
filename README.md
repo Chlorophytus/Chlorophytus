@@ -4,7 +4,7 @@
 
 You found it, the answer to the [ultimate question of my life, possibly the universe, and everything](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything).
 
-He/They pronouns
+They/Them pronouns
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlorophytus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,7 +14,7 @@ I am a **F**ield **P**rogrammable **G**ate **A**rray hobbyist dev, meaning I can
 
 #### Backend
 
-I am a backend dev who is also working on ExSemantica, a featherweight platform for social networking, but that may change in the near future.
+I am a backend dev who is also working on a few Elixir-based projects. As of the writing I've mainly been working on exfwghtblog so I can self-host a blog efficiently.
 
 #### Miscellaneous
 
