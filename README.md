@@ -4,18 +4,18 @@
 
 You found it, the answer to the [ultimate question of my life, possibly the universe, and everything](https://en.wikipedia.org/wiki/Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything).
 
-They/Them pronouns
+They/Them pronouns. In this README I describe some projects I've contributed and created.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlorophytus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-#### FPGA
+#### C++: [nbody2024](https://github.com/Chlorophytus/nbody2024)
 
-I am a **F**ield **P**rogrammable **G**ate **A**rray hobbyist dev, meaning I can hardware accelerate parallel (or simple) problems up to a few hundred megahertz. In my opinion, the more components that operate at once, the more work can be accomplished per megahertz.
+This is an example of utilizing multithreading to approximate an [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation).
 
-#### Backend
+#### Elixir: [exfwghtblog](https://github.com/Chlorophytus/exfwghtblog)/[exsemantica](https://github.com/ExSemantica/ExSemantica)
 
-I am a backend dev who is also working on a few Elixir-based projects. As of the writing I've mainly been working on exfwghtblog so I can self-host a blog efficiently.
+ExSemantica is a big side-project to create a link aggregator. Exfwghtblog is a lightweight blog application in Elixir, but not really production ready yet. I'll have to complete both at later dates.
 
-#### Miscellaneous
+#### Simple PCB design: [RMoy](https://github.com/Chlorophytus/RMoy)
 
-I also do some data/gamedev work with C++, Rust, or Python. **Todo**: Add more information for this part.
+The RMoy is a CMoy-style headphone amplifier using a Burr-Brown OPA2134 dual operational amplifier. I designed this in KiCad. I still have to fix some issues with the design which I will at a later date.
