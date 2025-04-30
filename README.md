@@ -17,3 +17,7 @@ ExSemantica is a big side-project to create a link aggregator. Exfwghtblog is a 
 #### Simple PCB design: [RMoy](https://github.com/Chlorophytus/RMoy)
 
 The RMoy is a CMoy-style headphone amplifier using a Burr-Brown OPA2134 dual operational amplifier. I designed this in KiCad. I still have to fix some issues with the design which I will at a later date.
+
+#### Manage an Arch Linux package cache in Docker: [Archbyte](https://github.com/Chlorophytus/Archbyte)
+
+Archbyte pulls a set of Arch Linux packages/meta-packages/groups into a directory then hosts it automatically using a HTTP daemon.
