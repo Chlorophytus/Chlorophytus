@@ -10,7 +10,7 @@ They/Them pronouns. In this README I describe some projects I've contributed and
 
 This is an example of utilizing multithreading to approximate an [N-body simulation](https://en.wikipedia.org/wiki/N-body_simulation).
 
-#### Elixir: [exfwghtblog](https://github.com/Chlorophytus/exfwghtblog)/[exsemantica](https://github.com/ExSemantica/ExSemantica)
+#### Elixir: [exfwghtblog](https://github.com/Chlorophytus/exfwghtblog)/[exsemantica](https://github.com/Chlorophytus/ExSemantica)
 
 ExSemantica is a big side-project to create a link aggregator. Exfwghtblog is a lightweight blog application in Elixir, but not really production ready yet. I'll have to complete both at later dates.
 
