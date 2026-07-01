@@ -21,3 +21,7 @@ The RMoy is a CMoy-style headphone amplifier using a Burr-Brown OPA2134 dual ope
 #### Manage an Arch Linux package cache in Docker: [Archbyte](https://github.com/Chlorophytus/Archbyte)
 
 Archbyte pulls a set of Arch Linux packages/meta-packages/groups into a directory then hosts it automatically using a HTTP daemon.
+
+#### Embedded Software (C++): [ESP32 Weather Station](https://github.com/Chlorophytus/esp32-weather)
+
+This transmits weather data from the development board's sensors to a MQTT broker. Data is encoded in a JSON format.
