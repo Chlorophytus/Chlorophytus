@@ -4,7 +4,7 @@ You found it, the answer to the [ultimate question of my life, possibly the univ
 
 They/Them pronouns. In this README I describe some projects I've contributed and created.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlorophytus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Chlorophytus's GitHub stats](https://github-stats-extended.vercel.app/api?username=Chlorophytus)](https://github.com/stats-organization/github-stats-extended)
 
 #### C++: [nbody2024](https://github.com/Chlorophytus/nbody2024)
 
